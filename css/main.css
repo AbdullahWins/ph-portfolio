@@ -22,7 +22,10 @@ h1 {
 }
 section {
     display: flex;
+    margin-bottom: 50px;
 }
+
+
 
 .half-width {
     width: 50%;
@@ -37,4 +40,10 @@ section {
     color: wheat;
     border-radius: 5px;
     padding: 10px 30px;
+}
+
+.dream {
+    background-image: url(/assets/img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
