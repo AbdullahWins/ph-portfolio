@@ -60,5 +60,6 @@ h2 {
 }
 
 .experience {
-    background-image: url();
+    background-image: url(/assets/img/exp-bg.png);
+    background-repeat: no-repeat;
 }
