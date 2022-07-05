@@ -34,6 +34,7 @@ h2 {
     margin-right: 5%;
     padding-left: 20px;
     border-radius: 5px;
+
 }
 
 
@@ -62,4 +63,16 @@ h2 {
 .experience {
     background-image: url(/assets/img/exp-bg.png);
     background-repeat: no-repeat;
+}
+
+#awp {
+    border-left: 7px solid rgb(87, 10, 87);
+}
+
+#ssg {
+    border-left: 7px solid rgb(212, 45, 231);
+}
+
+footer {
+    text-align: center;
 }
